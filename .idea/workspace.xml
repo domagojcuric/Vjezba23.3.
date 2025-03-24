@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6773778c-6fd6-4e85-8e29-da0712aa7d43" name="Changes" comment="dodan zadatak drugi">
-      <change beforePath="$PROJECT_DIR$/../Vjezba24.3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Vjezba24.3/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="6773778c-6fd6-4e85-8e29-da0712aa7d43" name="Changes" comment="updatan zadatak">
+      <change beforePath="$PROJECT_DIR$/../Vjezba24.3/src/FizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Vjezba24.3/src/FizzBuzz.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,12 +78,35 @@
       <option name="presentableId" value="LOCAL−00002" />
       <updated>1742839450276</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL−00003" summary="dodan treci zadatak">
+      <option name="closed" value="true" />
+      <created>1742839794440</created>
+      <option name="number" value="LOCAL−00003" />
+      <option name="presentableId" value="LOCAL−00003" />
+      <updated>1742839794440</updated>
+    </task>
+    <task id="LOCAL−00004" summary="dodan treci zadatak">
+      <option name="closed" value="true" />
+      <created>1742839807228</created>
+      <option name="number" value="LOCAL−00004" />
+      <option name="presentableId" value="LOCAL−00004" />
+      <updated>1742839807228</updated>
+    </task>
+    <task id="LOCAL−00005" summary="updatan zadatak">
+      <option name="closed" value="true" />
+      <created>1742839968892</created>
+      <option name="number" value="LOCAL−00005" />
+      <option name="presentableId" value="LOCAL−00005" />
+      <updated>1742839968892</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Prvi comit" />
     <MESSAGE value="dodan zadatak drugi" />
-    <option name="LAST_COMMIT_MESSAGE" value="dodan zadatak drugi" />
+    <MESSAGE value="dodan treci zadatak" />
+    <MESSAGE value="updatan zadatak" />
+    <option name="LAST_COMMIT_MESSAGE" value="updatan zadatak" />
   </component>
 </project>
