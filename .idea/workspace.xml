@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6773778c-6fd6-4e85-8e29-da0712aa7d43" name="Changes" comment="Prvi comit">
-      <change beforePath="$PROJECT_DIR$/../Vjezba24.3/src/temperatura.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Vjezba24.3/src/temperatura.java" afterDir="false" />
+    <list default="true" id="6773778c-6fd6-4e85-8e29-da0712aa7d43" name="Changes" comment="dodan zadatak drugi">
+      <change beforePath="$PROJECT_DIR$/../Vjezba24.3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Vjezba24.3/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +45,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.FizzBuzz.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.temperatura.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -70,11 +71,19 @@
       <option name="presentableId" value="LOCAL−00001" />
       <updated>1742839066389</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL−00002" summary="dodan zadatak drugi">
+      <option name="closed" value="true" />
+      <created>1742839450276</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1742839450276</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Prvi comit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Prvi comit" />
+    <MESSAGE value="dodan zadatak drugi" />
+    <option name="LAST_COMMIT_MESSAGE" value="dodan zadatak drugi" />
   </component>
 </project>
