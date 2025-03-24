@@ -7,10 +7,10 @@ public class Main {
         Scanner input = new Scanner(System.in);
 
         System.out.print("Unesite d1ljinu pravokutnika: ");
-        double duljina = input.nextDouble();
+        double duljina = Double.parseDouble(input.nextLine());
 
         System.out.print("Unesite sirinu pravokutnika: ");
-        double sirina = input.nextDouble();
+        double sirina = Double.parseDouble(input.nextLine());
 
         double povrsina = duljina * sirina;
 
