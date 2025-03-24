@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6773778c-6fd6-4e85-8e29-da0712aa7d43" name="Changes" comment="update dodan 101 broj u brojac">
-      <change afterPath="$PROJECT_DIR$/../Vjezba24.3/src/Polja.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Vjezba24.3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Vjezba24.3/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="6773778c-6fd6-4e85-8e29-da0712aa7d43" name="Changes" comment="min i max u nizu cijelih brojeva">
+      <change afterPath="$PROJECT_DIR$/../Vjezba24.3/src/OIB.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +47,7 @@
   "keyToString": {
     "Application.FizzBuzz.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.OIB.executor": "Run",
     "Application.Polja.executor": "Run",
     "Application.temperatura.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -129,7 +129,14 @@
       <option name="presentableId" value="LOCAL−00009" />
       <updated>1742841250309</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL−00010" summary="min i max u nizu cijelih brojeva">
+      <option name="closed" value="true" />
+      <created>1742843159889</created>
+      <option name="number" value="LOCAL−00010" />
+      <option name="presentableId" value="LOCAL−00010" />
+      <updated>1742843159889</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -141,6 +148,7 @@
     <MESSAGE value="update cetvrti" />
     <MESSAGE value="update dodan parse double" />
     <MESSAGE value="update dodan 101 broj u brojac" />
-    <option name="LAST_COMMIT_MESSAGE" value="update dodan 101 broj u brojac" />
+    <MESSAGE value="min i max u nizu cijelih brojeva" />
+    <option name="LAST_COMMIT_MESSAGE" value="min i max u nizu cijelih brojeva" />
   </component>
 </project>
