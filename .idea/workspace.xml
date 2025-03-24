@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6773778c-6fd6-4e85-8e29-da0712aa7d43" name="Changes" comment="update cetvrti">
+    <list default="true" id="6773778c-6fd6-4e85-8e29-da0712aa7d43" name="Changes" comment="update dodan 101 broj u brojac">
+      <change afterPath="$PROJECT_DIR$/../Vjezba24.3/src/Polja.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Vjezba24.3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Vjezba24.3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Vjezba24.3/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Vjezba24.3/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,18 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Vjezba24.3" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "domagojcuric"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;domagojcuric&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/domagojcuric/Vjezba23.3..git",
-    "accountId": "7bd5fd2e-7478-4172-a31d-4233dfa1ce67"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/domagojcuric/Vjezba23.3..git&quot;,
+    &quot;accountId&quot;: &quot;7bd5fd2e-7478-4172-a31d-4233dfa1ce67&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -48,6 +48,7 @@
   "keyToString": {
     "Application.FizzBuzz.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.Polja.executor": "Run",
     "Application.temperatura.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -114,7 +115,21 @@
       <option name="presentableId" value="LOCAL−00007" />
       <updated>1742840336412</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL−00008" summary="update dodan parse double">
+      <option name="closed" value="true" />
+      <created>1742841194365</created>
+      <option name="number" value="LOCAL−00008" />
+      <option name="presentableId" value="LOCAL−00008" />
+      <updated>1742841194365</updated>
+    </task>
+    <task id="LOCAL−00009" summary="update dodan 101 broj u brojac">
+      <option name="closed" value="true" />
+      <created>1742841250309</created>
+      <option name="number" value="LOCAL−00009" />
+      <option name="presentableId" value="LOCAL−00009" />
+      <updated>1742841250309</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -124,6 +139,8 @@
     <MESSAGE value="updatan zadatak" />
     <MESSAGE value="update treci" />
     <MESSAGE value="update cetvrti" />
-    <option name="LAST_COMMIT_MESSAGE" value="update cetvrti" />
+    <MESSAGE value="update dodan parse double" />
+    <MESSAGE value="update dodan 101 broj u brojac" />
+    <option name="LAST_COMMIT_MESSAGE" value="update dodan 101 broj u brojac" />
   </component>
 </project>
